@@ -1,21 +1,5 @@
-# realtime-dashboard
-# Sentinel Analytics — Real-Time Cybersecurity Threat Monitor
+# Vue 3 + TypeScript + Vite
 
-A high-performance, real-time data visualization platform built with **Vue 3 (Composition API)**, **TypeScript**, **Pinia**, and **ApexCharts**. This dashboard simulates a production-grade security operations center (SOC) tracking incoming telemetry vectors, system load metrics, and critical network alerts under heavy data streaming loads.
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Live Demo & Repository
-- GitHub Repository: [Insert Your GitHub Link Here]
-- Production Deployment: [Insert Your Live Link Here, e.g., Vercel/Netlify]
-
----
-
-##Setup Instructions
-
---Prerequisites
-Ensure you have Node.js (v18 or higher) and npm installed on your system.
-
--- Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
-   cd realtime-dashboard
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
